@@ -93,7 +93,7 @@ export default function App() {
         <>
           <header className="text-center pt-10 pb-8">
             <p className="text-[11px] tracking-[3px] uppercase text-[#e8c96d] mb-3">
-              Página para Material de estudio
+              Pagina de repaso para tus examenes
             </p>
             <h1
               className="font-serif font-black leading-tight"
@@ -104,7 +104,7 @@ export default function App() {
                 WebkitTextFillColor: 'transparent',
               }}
             >
-              FlashcardsAI
+              RepasioAI
             </h1>
             <p className="text-sm text-[var(--muted)] mt-3 max-w-sm mx-auto">
               Subí cualquier PDF y la IA genera un mazo de estudio personalizado al instante.

@@ -184,7 +184,7 @@ export default function AIPanel({ onGenerate, onImport, loading, error }) {
 
       {loading && (
         <p className="text-center text-xs text-[var(--muted)] mt-3">
-          Esto puede tardar unos segundos según el tamaño del documento…
+          Generando Flashcards, esto puede tardar unos segundos según el tamaño del documento…
         </p>
       )}
     </div>
