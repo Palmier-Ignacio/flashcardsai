@@ -8,7 +8,7 @@ export default function AppLayout({ children }) {
         <p className="text-[12px] text-[var(--muted)]">
           Hecho con ❤️ por{' '}
           <a
-            href="https://www.linkedin.com/in/ignacio-palmier-68b337210/"   // <---- no me tengo que olvidar de poner mi url al portfolio en vez de linkedin :)
+            href="https://palmier-ignacio.github.io/"   // <---- no me tengo que olvidar de poner mi url al portfolio en vez de linkedin :)
             target="_blank"
             rel="noreferrer"
             className="text-[#e8c96d] hover:underline transition-colors"
